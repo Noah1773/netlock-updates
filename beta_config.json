@@ -3,9 +3,9 @@
   "trial_days": 7,
   "hard_cutoff_date": "2026-12-15",
   "message": "Beta testing has concluded by Beesu Khan. Thank you for participating!",
-  "latest_version_code": 4,
+  "latest_version_code": 7,
   "latest_version_name": "1.0.0-vivo30",
-  "apk_url": "https://github.com/Noah1773/netlock-updates/releases/download/v4/NetLock.apk",
+  "apk_url": "https://github.com/Noah1773/netlock-updates/releases/download/v7/NetLock.apk",
   "changelog": "• Full-Screen App Diagnostics\n• Rule Backup (Export / Import)\n• In-App Auto-Updater\n• 1-Tap Unrestricted Battery Protection\n• Unblock All Confirmation & UI fixes",
   "force_update": true
 }
